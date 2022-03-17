@@ -1,9 +1,10 @@
 # _BERTOTI
 
-## Nome: Wallace Marinho de Souza Silva      RA: 1460482121007
+## Nome: Wallace Marinho de Souza Silva                RA: 1460482121007
 
-# <p align="center"> Ciclo de Vida de Desenvolvimento de Software <p/>
-# <p align="center">(Plataforma de Ensino) </p>
+# <p align="center"> Ciclo de Vida de Desenvolvimento de Software
+                     (Plataforma de Ensino) <p/>
+
 <br><br>
 ## Requisitos Funcionais
 
