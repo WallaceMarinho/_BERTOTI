@@ -1,8 +1,10 @@
 # _BERTOTI
-# Prototipo de uma plataforma de ensino
-<br><br>
 
-## Nome: Wallace
+## Nome: Wallace Marinho de Souza Silva      RA: 1460482121007
+
+# <p align="center"> Ciclo de Vida de Desenvolvimento de Software <p/>
+# <p align="center">(Plataforma de Ensino) </p>
+<br><br>
 ## Requisitos Funcionais
 
 Os requisitos funcionais definem as tarefas e ações que um software deve tomar, também definindo como os usuários e outros sistemas irão interagir com o software.
