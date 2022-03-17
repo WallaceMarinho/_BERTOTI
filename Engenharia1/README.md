@@ -1,6 +1,8 @@
 # _BERTOTI
 # Prototipo de uma plataforma de ensino
 <br><br>
+
+## Nome: Wallace
 ## Requisitos Funcionais
 
 Os requisitos funcionais definem as tarefas e ações que um software deve tomar, também definindo como os usuários e outros sistemas irão interagir com o software.
