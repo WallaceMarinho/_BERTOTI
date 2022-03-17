@@ -173,11 +173,12 @@ nas figuras 1 e 2.
    
    
    
-   
+  
+
    <p align="center"> Figura 10 - Diagrama de classes parte superior </p>
    
    <div align="center">
-   <img src="https://user-images.githubusercontent.com/91164489/157986705-dfa63931-a16f-4d38-8c49-e291f70cb662.PNG" />
+   <img src= "https://user-images.githubusercontent.com/91164489/158909497-2cc681ab-78c1-4833-8137-2e40404b5d72.PNG" />
    </div>
    
    <p align="center">Fonte: Author </p>
