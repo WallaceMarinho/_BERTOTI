@@ -194,7 +194,7 @@ nas figuras 1 e 2.
    
    ## Criando as Classes do Diagrama
    
-   Após finalizar o diagrama de classes da plataforma de ensino 
+   Após a finalização do diagrama de classes da plataforma de ensino, é apresentado abaixo a criação das classes do diagrama por meio da linguagem de programação    "Java". 
    
    
    
