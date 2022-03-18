@@ -192,5 +192,9 @@ nas figuras 1 e 2.
    
    <p align="center">Fonte: Author </p>
    
+   ## Criando as Classes do Diagrama
+   
+   Após finalizar o diagrama de classes da plataforma de ensino 
+   
    
    
