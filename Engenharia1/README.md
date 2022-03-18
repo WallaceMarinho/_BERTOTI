@@ -197,4 +197,127 @@ nas figuras 1 e 2.
    Após a finalização do diagrama de classes da plataforma de ensino, é apresentado abaixo a criação das classes do diagrama por meio da linguagem de programação    "Java". 
    
    
+ 
+
+   <p align="center"> Figura 12 - Classe Plataforma de Ensino  </p>
+   
+   <div align="center">
+   <img src= "https://user-images.githubusercontent.com/91164489/158988643-86d29789-26bf-4cf4-b8d2-0dbcf8fb6b21.PNG"/>
+   </div> 
+   
+   <p align="center">Fonte: Author </p>
+   
+   <p align="center"> Figura 13 -Código Java Classe Plataforma de Ensino  </p>
+   
+   <div align="center">
+   <img src= "https://user-images.githubusercontent.com/91164489/158988266-5c3f31e3-3a00-4f69-b220-94320e279cba.PNG"/>
+   </div>
+   
+   <p align="center">Fonte: Author </p>
+
+
+   <p align="center"> Figura 14 - Classe Aluno  </p>
+   
+   <div align="center">
+   <img src= "https://user-images.githubusercontent.com/91164489/158990099-3f01d4b9-9361-490e-9bb7-c242f17ffac5.PNG" />
+   </div>
+   
+   <p align="center"> Fonte: Author </p>
+   
+   
+   <p align="center"> Figura 15 - Código Java Classe Aluno (Parte Superior)  </p>
+   
+   <div align="center">
+   <img width="500px" src= "https://user-images.githubusercontent.com/91164489/158990698-c82aebb8-911b-45bd-ab4a-ee0e84913cd8.PNG" />
+   </div>
+   
+   <p align="center"> Fonte: Author </p>
+   
+   
+   <p align="center"> Figura 16 - Código Java Classe Aluno (Parte Inferior)  </p>
+   
+   <div align="center">
+   <img width="500px" src= "https://user-images.githubusercontent.com/91164489/158992141-bc091705-f9ce-4f8e-be2b-b206db544341.PNG"/>
+   </div>
+   
+   <p align="center"> Fonte: Author </p>
+
+   
+   <p align="center"> Figura 17 - Classe Professor  </p>
+
+   <div align="center">
+   <img src= "https://user-images.githubusercontent.com/91164489/158992421-c0b2a8b0-cfe2-4fec-be03-0ff4ac61f864.PNG" />
+   </div>
+
+   <p align="center"> Fonte: Author </p>
+   
+   
+   <p align="center"> Figura 18 - Código Java Classe Professor (Parte Superior)  </p>
+    
+   <div align="center">
+   <img src= "https://user-images.githubusercontent.com/91164489/158992642-90ff8118-19e9-4e03-b775-653b99d05467.PNG" />
+   </div>   
+
+   <p align="center"> Fonte: Author </p>
+   
+
+   <p align="center"> Figura 19 - Código Java Classe Professor (Parte Inferior)  </p>
+   
+   <div align="center">
+   <img width="500px"src= "https://user-images.githubusercontent.com/91164489/158993587-47c4ffbb-c827-4d01-9b65-ecb998b47871.PNG" />
+   </div>   
+   
+   <p align="center"> Fonte: Author </p>
+   
+   <p align="center"> Figura 20 -  Classe Grupos </p>
+   
+   <div align="center">
+   <img src= "https://user-images.githubusercontent.com/91164489/158994100-53b5649b-6095-43eb-8c77-eb2f59b422e9.PNG" />
+   </div>   
+   
+   <p align="center"> Fonte: Author </p>
+   
+   <p align="center"> Figura 21 - Código Java Classe Grupos </p>
+   
+   <div align="center">
+   <img src= "https://user-images.githubusercontent.com/91164489/158994364-30c89e7b-72f8-4fef-a341-ae214565250f.PNG" />
+   </div>  
+   
+   <p align="center"> Fonte: Author </p>
+   
+   <p align="center"> Figura 22 - Classe Atividades </p>
+   
+   <div align="center">
+   <img src= "https://user-images.githubusercontent.com/91164489/158994669-b3a24d0d-d53c-4051-953d-c1db8ac848c8.PNG" />
+   </div>
+   
+   <p align="center"> Fonte: Author </p>
+   
+   
+   <p align="center"> Figura 23 - Código Java Classe Atividades </p>
+   
+   <div align="center">
+   <img src= "https://user-images.githubusercontent.com/91164489/158994947-73d4c3dd-7710-4fdc-85d1-d4b7b32b5a45.PNG" />
+   </div>
+   
+   <p align="center"> Fonte: Author </p>
+
+
+   
+   
+   
+
+
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
    
