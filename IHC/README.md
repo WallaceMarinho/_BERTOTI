@@ -15,6 +15,22 @@ O menu de navegação do website de vendas online, centralizado na parte superio
 <img src="https://user-images.githubusercontent.com/91164489/186433412-43811657-105c-48ac-8210-b2bc266560bd.PNG" />
  </div> 
   
-<p align="center">Fonte: Author </p> 
+<p align="center">Fonte: Author </p>
+
+
+## Heurística 2.4.2 Título da Página - Nível A
+
+O website apresenta títulos ao usuário, dividindo o site em seções, como a exibição dos produtos mais vendidos, produtos recém lançados, tipos de produtos, etc.
+
+<p align="center">Figura 2 - Títulos no website </p>
+
+
+ <div align="center"> 
+ <img src= "https://user-images.githubusercontent.com/91164489/187686777-27ef059c-2462-4364-9a83-5aebe37a14a6.PNG" />
+ </div>
+ 
+ 
+<p align="center">Fonte: Author </p>
+
 
 
