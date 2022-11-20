@@ -34,3 +34,19 @@ O website apresenta títulos ao usuário, dividindo o site em seções, como a e
 
 
 
+## Heurística 2.4.4 Finalidadee do link(no contexto) - Nível A
+
+Ao final da página web é encontrado diversos links de navegação, cuja finalidade dos mesmos são definidadas pelos próprios links, ou pelos títulos que os separam.
+<p align="center">Figura 3 - Links no website </p>
+
+
+ <div align="center"> 
+ <img src= "https://user-images.githubusercontent.com/91164489/202928663-63feb175-eb15-4774-bba2-3660206e11db.PNG" />
+ </div>
+ 
+ 
+<p align="center">Fonte: Author </p>
+
+
+
+
